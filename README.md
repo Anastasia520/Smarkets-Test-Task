@@ -2,9 +2,16 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Style
+
+MUI is used for styling.
+https://cors-anywhere.herokuapp.com/ is used to bypass CORS.
+
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `npm install` before running
 
 ### `npm start`
 
