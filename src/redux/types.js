@@ -1,0 +1,7 @@
+export const GET_EVENTS = "GET_EVENTS";
+export const GET_EVENTS_ERROR = "GET_EVENTS_ERROR";
+export const GET_EVENTS_LOADING = "GET_EVENTS_LOADING";
+
+export const GET_EVENT = "GET_EVENT";
+export const GET_EVENT_ERROR = "GET_EVENT_ERROR";
+export const GET_EVENT_LOADING = "GET_EVENT_LOADING";
