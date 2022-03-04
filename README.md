@@ -4,8 +4,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Style
 
-MUI is used for styling.
-https://cors-anywhere.herokuapp.com/ is used to bypass CORS.
+MUI is used for styling.\
+
+## CORS
+https://cors-anywhere.herokuapp.com/ is used to bypass CORS.\
 
 ## Available Scripts
 
